@@ -18,7 +18,7 @@
 
     <!-- Колонка 1 -->
     <text x="8" y="20" class="title">написано кода</text>
-    <text x="260" y="20" class="txt-dim" text-anchor="end">обновлено · 19.11.2026</text>
+    <text x="260" y="20" class="txt-dim" text-anchor="end">обновлено · 20.11.2026</text>
     <text x="8" y="62" class="hero">14,879</text>
     <text x="104" y="61" class="sub">строк · 64 файлов</text>
 
@@ -50,23 +50,23 @@
     <text x="604" y="20" class="title">импульс · 7 дней</text>
     
             <circle cx="607" cy="50" r="3" fill="#39d353"/>
-            <text x="617" y="54" class="txt-proj">quickshell-old</text>
-            <text x="762" y="54" class="txt-dim" text-anchor="end">3.4k</text>
-            <text x="832" y="54" class="delta-up" text-anchor="end">+3,368</text>
+            <text x="617" y="54" class="txt-proj">quickshell</text>
+            <text x="762" y="54" class="txt-dim" text-anchor="end">6.3k</text>
+            <text x="832" y="54" class="delta-up" text-anchor="end">+2,982</text>
         
             <circle cx="607" cy="76" r="3" fill="#39d353"/>
-            <text x="617" y="80" class="txt-proj">quickshell</text>
-            <text x="762" y="80" class="txt-dim" text-anchor="end">6.3k</text>
-            <text x="832" y="80" class="delta-up" text-anchor="end">+2,982</text>
+            <text x="617" y="80" class="txt-proj">hypr</text>
+            <text x="762" y="80" class="txt-dim" text-anchor="end">801</text>
+            <text x="832" y="80" class="delta-up" text-anchor="end">+350</text>
         
             <circle cx="607" cy="102" r="3" fill="#39d353"/>
-            <text x="617" y="106" class="txt-proj">quickshell-gla</text>
-            <text x="762" y="106" class="txt-dim" text-anchor="end">2.9k</text>
-            <text x="832" y="106" class="delta-up" text-anchor="end">+2,922</text>
+            <text x="617" y="106" class="txt-proj">dev-pulse</text>
+            <text x="762" y="106" class="txt-dim" text-anchor="end">315</text>
+            <text x="832" y="106" class="delta-up" text-anchor="end">+9</text>
         
             <circle cx="607" cy="128" r="3" fill="#39d353"/>
-            <text x="617" y="132" class="txt-proj">hypr</text>
-            <text x="762" y="132" class="txt-dim" text-anchor="end">801</text>
-            <text x="832" y="132" class="delta-up" text-anchor="end">+351</text>
+            <text x="617" y="132" class="txt-proj">Unknown Organi</text>
+            <text x="762" y="132" class="txt-dim" text-anchor="end">7</text>
+            <text x="832" y="132" class="delta-up" text-anchor="end">+7</text>
         
 </svg>
