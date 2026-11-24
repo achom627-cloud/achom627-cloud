@@ -18,7 +18,7 @@
 
     <!-- Колонка 1 -->
     <text x="8" y="20" class="title">написано кода</text>
-    <text x="260" y="20" class="txt-dim" text-anchor="end">обновлено · 23.11.2026</text>
+    <text x="260" y="20" class="txt-dim" text-anchor="end">обновлено · 24.11.2026</text>
     <text x="8" y="62" class="hero">8,770</text>
     <text x="104" y="61" class="sub">строк · 50 файлов</text>
 
